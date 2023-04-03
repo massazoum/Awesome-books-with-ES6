@@ -74,7 +74,7 @@ In order to run this project, you need to have a web browser installed on your c
 Clone this repository to your desired folder by running the following command:
 
 ```Setup
-  - git clone  https://github.com/massazoum/Awesome-Books.git
+  - git clone  https://github.com/massazoum/Awesome-books-with-ES6.git
   ```
  ### Install
 
