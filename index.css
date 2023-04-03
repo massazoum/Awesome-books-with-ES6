@@ -1,8 +1,6 @@
 nav {
   display: flex;
-  justify-content: space-around;/*
-  background-color: rgb(0, 174, 255);
- */
+  justify-content: space-around;
   color: #fff;
   padding: 10px;
   font-size: large;
@@ -65,10 +63,6 @@ section {
 
 .sectioncontact {
   min-height: 70vh;
-
-  /* width: 100vw; */
-
-  /* background-color: rgb(0, 174, 255); */
   background: linear-gradient(to right, tomato, rgb(0, 174, 255), rgb(179, 192, 66), rgb(76, 174, 78));
   margin-top: 50px;
   display: none;
@@ -77,10 +71,6 @@ section {
 
 .addbook {
   min-height: 70vh;
-
-  /* width: 100vw; */
-
-  /* background-color: rgb(0, 174, 255); */
   background: linear-gradient(to right, tomato, rgb(0, 174, 255), rgb(179, 192, 66), rgb(76, 174, 78));
   margin-top: 50px;
   display: none;
@@ -110,10 +100,6 @@ section {
   justify-content: center;
   justify-items: center;
   min-height: 70vh;
-
-  /* width: 100vw; */
-
-  /* background-color: rgb(0, 174, 255); */
   background: linear-gradient(to right, tomato, rgb(0, 174, 255), rgb(179, 192, 66), rgb(76, 174, 78));
   margin-top: 50px;
   border-radius: 30px;
