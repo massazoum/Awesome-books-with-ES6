@@ -1,0 +1,133 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  color: #fff;
+  padding: 10px;
+  font-size: large;
+}
+
+.L1 {
+  width: 60vw;
+  height: 10vh;
+  background-color: tomato;
+  color: white;
+  font-weight: bold;
+  border-radius: 10px;
+  font-size: x-large;
+  font-family: 'poppins', sans-serif;
+}
+
+.L2 {
+  width: 20vw;
+  height: 10vh;
+  background-color: tomato;
+  color: white;
+  font-weight: bold;
+  border-radius: 10px;
+  font-size: x-large;
+  font-family: 'poppins', sans-serif;
+}
+
+.L3 {
+  width: 20vw;
+  height: 10vh;
+  background-color: tomato;
+  color: white;
+  font-weight: bold;
+  border-radius: 10px;
+  font-size: x-large;
+  font-family: 'poppins', sans-serif;
+}
+
+section {
+  padding: 50px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  row-gap: 50px;
+  width: 80vw;
+}
+
+.bnt1 {
+  width: 70px;
+  height: 40px;
+  border-radius: 5px;
+}
+
+.contactlist li {
+  font-size: xx-large;
+  font-weight: lighter;
+}
+
+.sectioncontact {
+  min-height: 70vh;
+  background: linear-gradient(to right, tomato, rgb(0, 174, 255), rgb(179, 192, 66), rgb(76, 174, 78));
+  margin-top: 50px;
+  display: none;
+  border-radius: 30px;
+  color: white;
+}
+
+.addbook {
+  min-height: 70vh;
+  background: linear-gradient(to right, tomato, rgb(0, 174, 255), rgb(179, 192, 66), rgb(76, 174, 78));
+  margin-top: 50px;
+  display: none;
+  border-radius: 30px;
+}
+
+.addbook h2 {
+  color: white;
+  font-family: 'poppins', sans-serif;
+  font-weight: bolder;
+}
+
+.jshtml {
+  display: flex;
+  justify-content: space-between;
+  width: 90vw;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-color: rgba(8, 93, 132, 0.968);
+  color: white;
+  margin-left: 0;
+  padding: 10px;
+  font-size: x-large;
+}
+
+.sectionbook {
+  justify-content: center;
+  justify-items: center;
+  min-height: 70vh;
+  background: linear-gradient(to right, tomato, rgb(0, 174, 255), rgb(179, 192, 66), rgb(76, 174, 78));
+  margin-top: 50px;
+  border-radius: 30px;
+}
+
+.awesomesbooks {
+  display: flex;
+  justify-self: center;
+  color: white;
+  margin-bottom: 70px;
+  font-family: sans-serif;
+  font-weight: bolder;
+}
+
+.jshtml1 {
+  display: flex;
+  justify-content: space-between;
+  width: 50vw;
+}
+
+.inputAdd {
+  height: 10vh;
+  border-radius: 15px;
+}
+
+footer {
+  background-color: #f9f9f9;
+  padding: 20px;
+  text-align: center;
+}
